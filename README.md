@@ -2,50 +2,59 @@
 
 <br>
 
-[cite_start]I'm a Full-Stack Data Engineer with over three years of experience building comprehensive Data Science and Artificial Intelligence solutions[cite: 40].
+I'm a Full-Stack Data Engineer bridging the gap between economics, data science, and industrial applications. With over five years of experience building comprehensive AI and data solutions, I specialize in transforming raw data into actionable, real-time insights. 
 
-[cite_start]I'm an expert in Python, SQL, and data integration, with hands-on experience connecting APIs, creating dashboards, and monitoring processes[cite: 41]. [cite_start]I thrive in collaborative, interdisciplinary teams and enjoy solving complex problems[cite: 42].
+I'm an expert in Python, SQL, and data integration, with hands-on experience connecting APIs, building alerting frameworks, and designing complex monitoring dashboards. I thrive in interdisciplinary environments and enjoy solving complex operational problems through scalable cloud infrastructure and MLOps.
+
+<br>
+
+## 🚀 What I'm Currently Working On
+
+* **Stock Forecasting Architecture:** Building an end-to-end forecasting application utilizing `yfinance` for data ingestion, storing time-series data in **InfluxDB**, and visualizing metrics via **Grafana**, fully containerized and deployed on **AWS App Runner**.
+* **AI & MLOps:** Deepening my expertise in **Generative AI** and **RAG** architectures, while setting up **MLflow** for robust experiment tracking and model lifecycle management. 
 
 <br>
 
 ## 🛠️ My Tech Stack
 
-* **Languages:** Python | SQL | [cite_start]JavaScript [cite: 62]
-* **Core Skills:** Data Integration | API Development | Process Monitoring | [cite_start]Data Visualization [cite: 41]
-* **Tools & Platforms:** Power BI | Google Cloud Platform | AWS | [cite_start]GIT [cite: 51, 52, 54, 64]
-* **Other:** Command Line Interface (CLI) | Analytical Thinking | [cite_start]Teamwork [cite: 60, 63]
+* **Languages:** Python | SQL | JavaScript
+* **Data & AI:** Data Integration | Machine Learning | GenAI / RAG | MLflow 
+* **Cloud & DevOps:** AWS (App Runner) | Google Cloud Platform | Docker | Git
+* **Monitoring & Viz:** Grafana | InfluxDB | Power BI | Process Monitoring & Alerting Systems
+* **Core Skills:** API Development | Time-Series Analysis | Analytical Thinking
 
 <br>
 
 ## 💼 Professional Experience
 
-* [cite_start]**Software Developer** @ Molycop Technologies *(May 2025 – Present)* [cite: 45]
-    * [cite_start]Performing full-stack software development, deployment, and data integration for new client projects[cite: 46].
-    * [cite_start]Contributing to bug fixes, maintenance, and R&D on cloud/on-premises infrastructure[cite: 47].
+* **Software Developer** @ Molycop Technologies *(May 2025 – Present)*
+    * Developing and deploying full-stack software, alerting frameworks, and data integration pipelines for mining operations and SAG mills.
+    * Implementing system state logic, dynamic limits, and troubleshooting data flow for industrial monitoring products like MillSlicer and OreVia Slurry.
+    * Contributing to maintenance, bug fixes, and R&D across both cloud and on-premises infrastructure.
 
-* [cite_start]**Digital Scientist** @ RIMAC (Peruvian Insurance Company) *(September 2022 – April 2025)* [cite: 48]
-    * [cite_start]Developed API integrations (Facebook, Google) with Google Cloud Platform using Python, increasing paid ad ROI by 6%[cite: 52].
-    * [cite_start]Designed and implemented Power BI dashboards to monitor OKRs and improve sales strategies[cite: 51].
-    * [cite_start]Coordinated a successful CRM software migration, maintaining data quality and meeting deadlines[cite: 49].
+* **Digital Scientist** @ RIMAC (Peruvian Insurance Company) *(September 2022 – April 2025)*
+    * Developed API integrations (Facebook, Google) with Google Cloud Platform using Python, increasing paid ad ROI by 6%.
+    * Designed and implemented Power BI dashboards to monitor OKRs and improve sales strategies.
+    * Coordinated a successful CRM software migration, maintaining data quality and meeting strict deadlines.
 
-* [cite_start]**Business Intelligence** @ CONCEPTO (Peruvian Retail Company) *(January – August 2022)* [cite: 53]
-    * [cite_start]Developed Python forecasting models to optimize inventory, reducing excess inventory by 15%[cite: 55].
-    * [cite_start]Created automated, real-time sales reporting systems using Power BI and AWS[cite: 54].
+* **Business Intelligence Analyst** @ CONCEPTO (Peruvian Retail Company) *(January – August 2022)*
+    * Developed Python forecasting models to optimize inventory, reducing excess inventory by 15%.
+    * Created automated, real-time sales reporting systems using Power BI and AWS.
 
 <br>
 
 ## 🎓 Education
 
-* [cite_start]**Master in Data Science and Artificial Intelligence** [cite: 67]
-    * *IMF SMART EDUCATION | [cite_start]SPAIN* [cite: 66]
+* **Master in Data Science and Artificial Intelligence**
+    * *IMF SMART EDUCATION | SPAIN*
 
-* [cite_start]**Bachelor of Economics and International Business** [cite: 71]
-    * *ESAN UNIVERSITY | [cite_start]Lima, Peru* [cite: 70]
+* **Bachelor of Economics and International Business**
+    * *ESAN UNIVERSITY | Lima, Peru*
 
 <br>
 
 ## 📫 How to Reach Me
 
-* [cite_start]**Email:** alvinldf@gmail.com [cite: 43]
-* **LinkedIn:** [Your LinkedIn URL]
-* **YouTube:** [Your YouTube URL]
+* **Email:** alvinldf@gmail.com
+* **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/alvin-sulca-vega/?locale=en)]
+* **YouTube:** [[Your YouTube URL](https://www.youtube.com/@alvinldf)]
